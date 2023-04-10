@@ -1,5 +1,7 @@
 # Vapoursynth Docker Container
 
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/jcarrano/vapoursynth-ai?style=for-the-badge) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/jcarrano/vapoursynth-ai?style=for-the-badge)
+
 ## Repo
 
 https://github.com/sector7g-visuals/vsdocker

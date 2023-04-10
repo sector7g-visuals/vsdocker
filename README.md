@@ -1,19 +1,25 @@
 # Vapoursynth Docker Container
 
+## Repo
+
+https://github.com/sector7g-visuals/vsdocker
+
 ## Aim
 
-This is meant to make it easy to run Vapoursynth on cloud GPUs. It will 
+This is meant to make it easy to run Vapoursynth on cloud GPUs. It will
 include:
 
-- Vapoursynth: NO
-- Pytorch: YES
-- CUDA: YES
-- onnxruntime: NO
-- ffmpeg: NO
-- Plugins
-  - ffms2: NO
-  - ESRGAN: NO
-  - vs-mlrt (with onnxruntime backend): NO
-  - vsrife: NO
-- Jupyter: NO
-  - Yuuno extension: NO
+- Vapoursynth
+- Pytorch
+- CUDA
+- onnxruntime
+- ffmpeg
+- Vapoursynth Plugins
+  - ffms2
+  - VSGAN
+  - vs-mlrt (with onnxruntime/CUDA backend)
+  - cycmunet (untested)
+  - mvsfunc
+  - fmtconv
+- Jupyter
+  - Yuuno extension
